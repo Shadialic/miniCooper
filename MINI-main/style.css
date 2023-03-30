@@ -1,0 +1,171 @@
+*{padding: 0px;
+margin: 0px;
+overflow-x: hidden;}
+body{
+    
+    width: 100%;
+}
+.nav {
+    position: relative;
+    margin-left: 80px;
+    font-size: small;
+}
+.navbar{
+    padding-left: 30%;
+}
+.slidimg {
+   position: absolute;
+   z-index: 10px;
+
+   top: 150px;
+   
+   
+
+}
+.texbut{
+    margin-left:  12vw;
+    font-family: 'MINIBold','Georgia',serif;
+
+   
+    
+
+}
+.textt{
+    color: white;
+    line-height: 200px;
+
+}
+.but button{
+    border-color:rgba(255, 255, 255, 0); 
+    border-width: 2px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.but button:hover{
+    color: white;
+    background-color: black;
+    border-color: white;
+    
+}
+.logoyellow{
+    width: 100%;
+    height: 18vh;
+    background-color: rgb(213, 212, 208);
+
+   
+}
+.roel button{
+    
+    margin-left: 300px;
+
+}
+.huhu{
+    padding-top: 1vw;
+    padding-left: 50vw;
+    
+    
+}
+.rowl button{
+    background-color: rgb(3, 108, 157) ;
+    border-color:  rgb(3, 108, 157); 
+    color: rgb(255, 255, 255);
+    font-family: 'MINIBold','Georgia',serif;
+    font-weight:bold;
+
+
+
+}
+.rowl button:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.slidoneimg{
+margin-top: 90px;
+
+}
+.imdscr{
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.imdscr button{
+    margin-left: 40vw;
+   
+
+}
+.butttt{
+    margin-top: 130px;
+}
+.butttt button{
+  
+    margin-left: 40%;
+}
+.mainlast{
+    margin-top: 90px;
+}
+.row2{
+    margin-top: 30px;
+    width: 100%;
+    height: 300px;
+    background-color: brown;
+}
+.row2 h1{
+    padding-top: 3px;
+}
+/* .imgico{
+    position: relative;
+    margin-top: -180px;
+    margin-left: 30vw;
+
+} */
+/* .imgico img{
+    display: inline-block;
+    margin-left: 10px;
+    
+} */
+.imgico{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    height: 150px;
+    margin-top: 30px;
+
+}
+.row3{
+    background-color: rgb(255, 255, 255);
+    margin-top: 30px;
+}
+.row3 button{
+    margin-top: 10px;
+   border-radius: 5px;
+   
+   
+    background-color: rgb(77, 6, 6);
+    border:10px ;
+   
+
+}
+.row3 button:hover{
+    background-color: rgb(6, 6, 6);
+}
+.lastnav ul{
+    color: black;
+}
+.lastnav li{
+    display: inline-block;
+    margin-left: 120px;
+    color: black;
+    text-decoration: underline;
+
+
+}
+.lastnav li:hover{
+    display: inline-block;
+    margin-left: 120px;
+    color: darkred;
+
+
+}
+.lastnav{
+margin-top: -30px;
+
+}
